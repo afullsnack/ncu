@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>DCU_Illustration_Global_Non-Functional_Green_Email</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M37.5034133,24.7752793 C37.5034133,24.9424615 37.3585221,25.0873527 37.181309,25.0873527 L2.80754549,25.0873527 C2.63033241,25.0873527 2.48432667,24.9424615 2.48432667,24.7752793 L2.48432667,3.99008053 L18.345454,16.7839728 C19.3251414,17.5875616 20.8086043,17.6087381 21.8562791,16.7728273 L37.5034133,3.76605645 L37.5034133,24.7752793 Z M35.1416869,2.48432667 L20.2613614,14.8457745 C20.1610521,14.9226783 20.0172755,14.9338237 19.9169662,14.8457745 L4.56853075,2.48432667 L35.1416869,2.48432667 Z M37.181309,0 L2.80754549,0 C1.25832428,0 0,1.25832428 0,2.80754549 L0,24.7752793 C0,26.3256151 1.25832428,27.5850539 2.80754549,27.5850539 L37.181309,27.5850539 C38.7305302,27.5850539 40,26.3256151 40,24.7752793 L40,2.80754549 C40,1.25832428 38.7305302,0 37.181309,0 Z" id="path-1"></path>
+    </defs>
+    <g id="DCU_Illustration_Global_Non-Functional_Green_Email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Fill-1"></g>
+        <g id="Color/Primary/Green/Dark" mask="url(#mask-2)" fill="#01675A">
+            <rect id="Rectangle" x="0" y="0" width="40" height="28"></rect>
+        </g>
+    </g>
+</svg>

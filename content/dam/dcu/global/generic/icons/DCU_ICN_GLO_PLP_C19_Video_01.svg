@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon/Video</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.6,17.4 L9.6,6.6 L16.8,12 L9.6,17.4 Z M12,0 C5.376,0 0,5.376 0,12 C0,18.624 5.376,24 12,24 C18.624,24 24,18.624 24,12 C24,5.376 18.624,0 12,0 L12,0 Z" id="path-1"></path>
+    </defs>
+    <g id="PLP-(Mortgage)-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DCU_PLP_Mortgage_Desktop" transform="translate(-183.000000, -4053.000000)">
+            <g id="Resources" transform="translate(0.000000, 3479.000000)">
+                <g id="Videos" transform="translate(183.000000, 574.000000)">
+                    <g id="Icon/Video">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#07926D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="Color/Primary/Green/Dark" mask="url(#mask-2)" fill="#01675A" fill-rule="evenodd">
+                            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
